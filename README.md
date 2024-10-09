@@ -34,20 +34,21 @@ The results were downloaded and saved as  the following csv files below: <br> <b
 
 
 ## Data Analysis Tools Used:
- (Note to add bullets, use hyphen - and press Enter on your keyboard)
-SQL (PostgreSQL)  - for Data Collection , Data Cleaning , and Data Analysis 
-Power BI - for Data Modelling,  Data Analysis,  Data Visualization and Creating an Interactive Report. 
+- SQL (PostgreSQL)  - for Data Collection , Data Cleaning , and Data Analysis 
+- Power BI - for Data Modelling,  Data Analysis,  Data Visualization and Creating an Interactive Report. 
 ## Data Collection: 
 
-__Database Inspection__ : In the initial data collection phase , I  inspected the company’s database using SQL code  to check for missing data (NULL) in each of the tables in the company’s database.
-I extracted the  required data for the purpose of the data analysis project using SQL complex query and SQL data aggregation .  
+## Database Inspection :
+- In the initial data collection phase , I  inspected the company’s database using SQL code  to check for missing data (NULL) in each of the tables in the company’s database.
+- I extracted the  required data for the purpose of the data analysis project using SQL complex query and SQL data aggregation .  
 ## Data Cleaning 
 
-I used SQL codes to clean and format the data to conform to the required data format.
-I downloaded the result of my SQL Queries from the company’s database  as a csv file to my PC. 
-Loading Data into Power BI:
-I loaded the downloaded csv files into Power BI for the purpose of Data Visualization and Building interactive dashboard/report. 
-Exploratory Data Analysis (EDA): EDA involves exploring the sales data in order to answer some key questions such as : 
+- I used SQL codes to clean and format the data to conform to the required data format.
+- I downloaded the result of my SQL Queries from the company’s database  as a csv file to my PC. 
+## Loading Data into Power BI:
+- I loaded the downloaded csv files into Power BI for the purpose of Data Visualization and Building interactive dashboard/report. 
+## Exploratory Data Analysis (EDA): 
+EDA involves exploring the sales data in order to answer some key questions such as : 
 Who are the top 10 customers of the company ?
 What particular products are the Top customers buying  ? 
 Comparative analysis to find out  the top selling product ?
